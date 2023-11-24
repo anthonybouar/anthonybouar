@@ -1,7 +1,7 @@
-# Hi there 👋
-<p>I am a student that mostly focuses on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p> 
+# Hey 👋
+<p>I'm a student interested in building apps with the power of JavaScript!</p> 
 
-<img src="imgs/me waving.png" width="400">
+<img src="imgs/me waving.png" width="250">
 
 ## Skills
 
