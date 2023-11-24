@@ -1,5 +1,7 @@
 # Hi there 👋
-<p>I am a student that mostly focuses on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p>
+<p>I am a student that mostly focuses on web development using Python and TypeScript. Feel free to check out my GitHub profile!</p> 
+
+<img src="imgs/me waving.png" width="400">
 
 ## Skills
 
@@ -8,3 +10,4 @@
     <img alt="HTML" height="35" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
     <img alt="CSS" height="35" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
+
