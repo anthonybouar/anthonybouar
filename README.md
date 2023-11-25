@@ -1,5 +1,5 @@
 # Hey 👋
-<p>I'm a student interested in building apps with the power of JavaScript!</p> 
+<p>I'm a student interested in building apps with the power of JavaScript, HTML, and CSS!</p> 
 
 <img src="imgs/me waving.png" width="250">
 
